@@ -12,8 +12,11 @@ Juego de sorteo aleatorio con nombres de participantes para el conocido "amigo s
 
 ## Acceso al proyecto Base
 https://github.com/romunozf/JuegoAmigoSecretoG8
-## Acceso al Demo
+## Acceso al Demo GitHub
 https://romunozf.github.io/JuegoAmigoSecretoG8/
+## Acceso al Demo Vercel
+https://juego-amigo-secreto-g8.vercel.app/
+
 ## Tecnologías utilizadas
 
 `Visual Studio Code`
