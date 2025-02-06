@@ -10,8 +10,10 @@ Juego de sorteo aleatorio con nombres de participantes para el conocido "amigo s
 3.- ya ingresados todos los nombres de los participantes, estos apareceran en la parte de abajo de la barra donde se ingresan las personas o amigos.
 4.- hacer click en sortear amigo, y esperar el resultado.
 
-## Acceso al proyecto
-
+## Acceso al proyecto Base
+https://github.com/romunozf/JuegoAmigoSecretoG8
+## Acceso al Demo
+https://romunozf.github.io/JuegoAmigoSecretoG8/
 ## Tecnologías utilizadas
 
 `Visual Studio Code`
